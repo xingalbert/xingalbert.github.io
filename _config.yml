@@ -34,6 +34,8 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+markdown: kramdown
+remote_theme: longpdo/neumorphism
 
 # Exclude from processing.
 # The following items will not be processed, by default.
